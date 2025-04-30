@@ -337,3 +337,4 @@ This plugin is available under the [MIT License](LICENSE.md).
 ## Contact
 
 For support or feedback, reach out at [saulocoexi@gmail.com].
+# Cool-Jump
